@@ -1,0 +1,13 @@
+
+
+
+-----------------------------------------------------------------------------
+1. Install Xampp 
+2. Open xampp control panel and start Apache and Mysql services
+3. Copy and Paste the folder "MyProject" in your system folder C/xampp/htdocs/
+4. Open browser, and goto "localhost/phpmyadmin"
+5. create New database as "mydb" and import the given sql file "mydb.sql"
+6. now open the project, "localhost/MyProject"
+------------------------------------------------------------------------------   
+
+-----------project owner is not responsible for anything---------------------
